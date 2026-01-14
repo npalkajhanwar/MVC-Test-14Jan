@@ -1,1 +1,22 @@
 Hello from Github Copilot
+
+Welcome to MVC-Test-14Jan Project
+==================================
+
+This is a test repository created to demonstrate GitHub Copilot capabilities
+and collaborative development workflows.
+
+Project Information:
+-------------------
+- Version: 1.0.0
+- Created: January 2025
+- Last Updated: January 14, 2026
+- Purpose: Testing and demonstrating MVC patterns and GitHub Copilot integration
+
+About This File:
+---------------
+This hello.txt file serves as a welcome message and provides basic information
+about the project. It has been enhanced with additional content to make it more
+informative and useful for developers and users exploring this repository.
+
+For more information or contributions, please refer to the repository documentation.
